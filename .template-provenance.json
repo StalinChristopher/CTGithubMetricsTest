@@ -1,0 +1,5 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "da748b2afe9bfa8e83aca982c42e979d877db8cf",
+  "extra_excludes": [":!**/*.xcconfig.local", ":!ios/.bundle/**"]
+}
